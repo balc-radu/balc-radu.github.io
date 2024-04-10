@@ -12,8 +12,14 @@ Pentru a vedea fisierul cu cookies dati click [aici](task4.html).
 # Task 5
 
 [![Mozilla Exemplu 1](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%201-blue)](mozillaex1.html)
-[![Mozilla Exemplu 2](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%201-blue)](mozillaex2.html)
 
+[![Mozilla Exemplu 2](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%202-blue)](mozillaex2.html)
+
+[![Mozilla Exemplu 3](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%203-blue)](mozillaex3.html)
+
+[![Mozilla Exemplu 4](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%204-blue)](mozillaex4.html)
+
+[![Mozilla Exemplu 5](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%205-blue)](mozillaex5.html)
 
 ## Template folosit
 - [Minimal]
