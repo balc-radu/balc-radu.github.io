@@ -3,8 +3,16 @@
 ## Task 3
 Urmărind instrucțiunile pentru GitHub Pages  creați o nouă pagina de proiect (.html) folosind template-ul „Minimal”; GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
+# Task 4
+
+Pentru a vedea fisierul cu cookies dati click [aici](task4.html).
+
+[![Button](https://img.shields.io/badge/Open%20HTML%20File-Task%204-orange)](task4.html)
+
+
 ## Template folosit
 - [Minimal]
+
 
 ## Link-ul pe care tocmai l-ati accesat 
 
