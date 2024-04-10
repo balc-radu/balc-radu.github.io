@@ -21,6 +21,9 @@ Pentru a vedea fisierul cu cookies dati click [aici](task4.html).
 
 [![Mozilla Exemplu 5](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%205-blue)](mozillaex5.html)
 
+[![Mozilla Exemplu 6](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%206-blue)](mozillaex6.html)
+
+
 ## Template folosit
 - [Minimal]
 
