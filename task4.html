@@ -4,18 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cookie Example</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <script>
-        document.cookie = "session=test GDPR";
-        document.cookie = "favorite_task=collect Data";
-
-        function alertCookie() {
-            alert(document.cookie);
-        }
-    </script>
-
     <h1>Bine ai venit la lab</h1>
-    <button onclick="alertCookie()">Show cookies</button>
+    <button id="showCookiesButton">Show cookies</button>
+
+    <script src="scripts.js"></script>
 </body>
 </html>
