@@ -1,6 +1,6 @@
 /* styles.css */
 
-#showCookiesButton {
+#button {
     background-color: #8a2be2; /* Mov */
     color: white;
     padding: 10px 20px;
@@ -11,7 +11,7 @@
     transition: background-color 0.3s ease;
 }
 
-#showCookiesButton:hover {
+#buttonHover:hover {
     background-color: #6a1e9a; 
 }
 
