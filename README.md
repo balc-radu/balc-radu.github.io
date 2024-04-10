@@ -9,6 +9,9 @@ Pentru a vedea fisierul cu cookies dati click [aici](task4.html).
 
 [![Button](https://img.shields.io/badge/Open%20HTML%20File-Task%204-orange)](task4.html)
 
+# Task 5
+
+[![Mozilla Exemplu 1](https://img.shields.io/badge/Open%20Mozilla%20Exemplu%201-blue)](mozillaex1.html)
 
 ## Template folosit
 - [Minimal]
