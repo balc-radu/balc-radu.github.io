@@ -1,5 +1,5 @@
 function checkCookieHasASpecificValue() {
-  if (document.cookie.split(";").some((item) => item.includes("reader=1"))) {
+  if (document.cookie.split(";").some((item) => item.includes("favorite_task=collect Data"))) {
     const output = document.getElementById("a-specific-value-of-the-cookie");
     output.textContent = '> The cookie "reader" has a value of "1"';
   }
