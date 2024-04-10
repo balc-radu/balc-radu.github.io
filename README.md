@@ -10,3 +10,5 @@ Urmărind instrucțiunile pentru GitHub Pages  creați o nouă pagina de proiect
 
 1. [https://balc-radu.github.io/]
 
+## Poza random
+![Project Image](https://cdn.motor1.com/images/mgl/77EYV/s1/tesla-model-s-fitted-with-chevrolet-ls3-v8-engine.webp)
