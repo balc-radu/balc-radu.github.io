@@ -1,16 +1,12 @@
-# Project Name
+# BR- Managementul Datelor Personale
 
-## Description
-Lorem ipsum
+## Task 3
+Urmărind instrucțiunile pentru GitHub Pages  creați o nouă pagina de proiect (.html) folosind template-ul „Minimal”; GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
-## Features
-- [Lorem ipsum]
-- [Lorem ipsum]
-- [Lorem ipsum]
+## Template folosit
+- [Minimal]
 
-## Installation
-To install this project, follow these steps:
+## Link-ul pe care tocmai l-ati accesat 
 
-1. [Lorem ipsum]
-2. [Lorem ipsum]
-3. [Lorem ipsum]
+1. [https://balc-radu.github.io/]
+
