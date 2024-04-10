@@ -2,7 +2,7 @@ function doOnce() {
   if (
     !document.cookie
       .split("; ")
-      .find((row) => row.startsWith("doSomethingOnlyOnce"))
+      .find((row) => row.startsWith("favorite_task"))
   ) {
     // Note that we are setting `SameSite=None;` in this example because the example
     // needs to work cross-origin.
